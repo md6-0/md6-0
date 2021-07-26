@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Altia as an OutSystems certified developer.
+- 🌱 I’m currently learning about the OutSystems platform.
+
 <!--
 **md6-0/md6-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
