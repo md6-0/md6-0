@@ -1,4 +1,4 @@
-### Hi there, I’m Mario 👨👋
+### Hi there, I’m Mario and I’m a Multimedia Engineer 👨👋
 
 - 🔭 I’m currently working in Altia as an OutSystems certified developer.
 - ❤️ I’m in love with HTML and CSS. I also like all things web development and web desing related.
