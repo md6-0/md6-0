@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Mario 👨👋
 
 - 🔭 I’m currently working in Altia as an OutSystems certified developer.
 - ❤️ I’m in love with HTML, CSS and all things web development/web desing related.
