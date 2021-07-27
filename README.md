@@ -1,4 +1,4 @@
-### ¡Hola! Soy Mario y soy Ingeniero Multimedia ![wave](https://github.com/md6-0/md6-0/blob/main/assets/wave.gif)
+### ¡Hola! Soy Mario y soy Ingeniero Multimedia <img src="https://github.com/md6-0/md6-0/blob/main/assets/wave.gif" width="25px" height="20px" alt="hola">
 
 
 - 🔭 Actualmente estoy trabajando en Altia como desarrollador de OutSystems.
@@ -11,7 +11,7 @@
 
 ___
 
-### Hi there, I’m Mario and I’m a Multimedia Engineer 👋
+### Hi there, I’m Mario and I’m a Multimedia Engineer <img src="https://github.com/md6-0/md6-0/blob/main/assets/wave.gif" width="25px" height="20px" alt="Hi there">
 
 - 🔭 I’m currently working in Altia as an OutSystems certified developer.
 
