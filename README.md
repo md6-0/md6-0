@@ -1,7 +1,7 @@
 ### ¡Hola! Soy Mario y soy Ingeniero Multimedia <img src="https://github.com/md6-0/md6-0/blob/main/assets/wave.gif" width="25px" height="20px" alt="hola">
 
 
-- 🔭 Actualmente estoy trabajando en Altia como desarrollador de OutSystems.
+- 🔭 Actualmente estoy trabajando en Axpe como desarrollador de OutSystems.
 
 - ❤️ Me encanta la maquetación web con HTML y CSS. También me gusta todo lo que tenga relación con el desarrollo y el diseño web.
 
@@ -13,7 +13,7 @@ ___
 
 ### Hi there, I’m Mario and I’m a Multimedia Engineer <img src="https://github.com/md6-0/md6-0/blob/main/assets/wave.gif" width="25px" height="20px" alt="Hi there">
 
-- 🔭 I’m currently working in Altia as an OutSystems certified developer.
+- 🔭 I’m currently working at Axpe as an OutSystems certified developer.
 
 - ❤️ I’m in love with HTML and CSS. I also like all things web development and web desing related.
 
