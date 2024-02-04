@@ -1,25 +1,24 @@
 ### ¡Hola! Soy Mario y soy Ingeniero Multimedia <img src="https://github.com/md6-0/md6-0/blob/main/assets/wave.gif" width="25px" height="20px" alt="hola">
 
+📃 Trabajo como desarrollador OutSystems y cuento con tres certificaciones oficiales en esta tecnología. 
 
-- 🔭 Actualmente estoy trabajando en Axpe como desarrollador de OutSystems.
+💼 He participado en proyectos OutSystems para clientes como SEAT, Banco Sabadell, Gobierno de Andorra y Grupo Sorigué. Tengo experiencia trabajando tanto en grandes proyectos como en pruebas de concepto.
 
-- ❤️ Me encanta la maquetación web con HTML y CSS. También me gusta todo lo que tenga relación con el desarrollo y el diseño web.
+❤️ Me encanta todo lo que tenga relación con el desarrollo y el diseño web, el Low-Code y el No-Code.
 
-- 🌱 Actualmente me estoy formando en el entorno de OutSystems. Además, siempre estoy aprendiendo cosas sobre CSS: buenas prácticas, tendencias y nuevas características.
-
-- ⚡ Durante mis prácticas en una empresa de desarrollo web me di cuenta de que me gusta mucho trabajar con CSS. Cuando estudiaba en la universidad aborrecía trabajar con CSS, pero tras trabajar diariamente con él empezó a gustarme y comencé a hacer pequeños proyectos como práctica y a leer artículos para mejorar mis habilidades. Durante mi estancia en esta empresa, aprendí a utilizar SASS/SCSS y vi que es una herramienta extremadamente útil para el desarrollo.
+🌱 En este momento estoy trabajando y aprendiendo en el entorno de OutSystems y sobre desarrollo Android nativo.
 
 ___
 
 ### Hi there, I’m Mario and I’m a Multimedia Engineer <img src="https://github.com/md6-0/md6-0/blob/main/assets/wave.gif" width="25px" height="20px" alt="Hi there">
 
-- 🔭 I’m currently working at Axpe as an OutSystems certified developer.
+📃 I am currently working as a Low Code developer using the OutSystems platform. I have three OutSystems certifications such as: Associate Traditional Web Developer, Associate Reactive Developer and Associate Developer. 
 
-- ❤️ I’m in love with HTML and CSS. I also like all things web development and web desing related.
+💼 I have worked on projects for clients such as SEAT, Banco Sabadell, Government of Andorra and Grupo Sorigué.
 
-- 🌱 I’m currently learning about OutSystems platform. But I’m always learning about CSS good practices, trends and new features.
+❤️ I am in love with all things web development and web design related, Low-Code and No-Code
 
-- ⚡ As a trainee in a web development company I found my love for CSS. When I was a student I kinda hated CSS, but after working intensely with it for a couple of months I found myself making little proyects and reading articles to improve my CSS skills and knowledge. During my stay as a trainee, I also learned about SASS/SCSS and how helpfull and powerfull it is.
+🌱 Right now I am working and learning about the OutSystems Low-Code platform and native Android development.
 
 
 <!--
