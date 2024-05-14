@@ -6,7 +6,7 @@
 
 ❤️ Me encanta todo lo que tenga relación con el desarrollo y el diseño web, el Low-Code y el No-Code.
 
-🌱 En este momento estoy trabajando y aprendiendo en el entorno de OutSystems y sobre desarrollo Android nativo.
+🌱 En este momento estoy trabajando y aprendiendo en el entorno de OutSystems y React.
 
 ___
 
@@ -18,20 +18,4 @@ ___
 
 ❤️ I am in love with all things web development and web design related, Low-Code and No-Code
 
-🌱 Right now I am working and learning about the OutSystems Low-Code platform and native Android development.
-
-
-<!--
-**md6-0/md6-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Right now I am working and learning about the OutSystems Low-Code platform and React.
