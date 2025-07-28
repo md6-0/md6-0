@@ -6,7 +6,7 @@
 
 ❤️ Me encanta todo lo que tenga relación con el desarrollo y el diseño web y Low-Code.
 
-🌱 En este momento estoy trabajando en el entorno de OutSystems y aprendiendo sobre gestión de proyectos y React.
+🌱 En este momento estoy trabajando en el entorno de OutSystems y aprendiendo sobre gestión de proyectos y Flutter.
 
 🙋🏻 Soy una persona siempre dispuesta ayudar a los demás. Me gusta seguir las buenas prácticas de desarrollo y arquitectura en los proyectos en los que participo.
 
@@ -20,6 +20,6 @@ _____
 
 ❤️ I am in love with all things web development and web design related y Low-Code.
 
-🌱 Right now I am working and learning about the OutSystems Low-Code platform, project management and React.
+🌱 Right now I am working and learning about the OutSystems Low-Code platform, project management and Flutter.
 
 🙋🏻 Always willing to help others. I like to follow good development and architectural practices in the projects I participate in.
