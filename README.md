@@ -4,7 +4,7 @@
 
 💼 He participado en proyectos OutSystems para clientes como SEAT, Gobierno de Andorra y Grupo Sorigué. Tengo experiencia trabajando tanto en grandes proyectos como en pruebas de concepto.
 
-❤️ Me encanta todo lo que tenga relación con el desarrollo y el diseño web, el Low-Code y el No-Code.
+❤️ Me encanta todo lo que tenga relación con el desarrollo y el diseño web y Low-Code.
 
 🌱 En este momento estoy trabajando en el entorno de OutSystems y aprendiendo sobre gestión de proyectos y React.
 
@@ -18,7 +18,7 @@ _____
 
 💼 I have worked on projects for clients such as SEAT, Government of Andorra and Grupo Sorigué.
 
-❤️ I am in love with all things web development and web design related, Low-Code and No-Code
+❤️ I am in love with all things web development and web design related y Low-Code.
 
 🌱 Right now I am working and learning about the OutSystems Low-Code platform, project management and React.
 
